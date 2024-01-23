@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/solarized.css" id="theme">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+  <h1>Demo Presentation</h1>
+</section>
+
+<section>
+  <h2>Slide Heading</h2>
+  <p>Blubb bla</p>
+  <p>Two Leprechauns riding a jabberwocky</p>
+</section>
+<section>
+  <p>This will remain visible for all vertical slides</p>
+  <section>Here is some vertical content</section>
+  <section>and some more</section>
+  <section>more stuff...</section>
+</section>
+<section>
+  <h2>Tlahcuiloh</h2>
+  <img src="images/vindobonensis_tlacuilo_oeste.jpg" alt="Codex Vindobonensis" title="Codex Vindobonensis Mexicanus 1">
+</section>
+<section>
+  <h2>fragments in DOM order</h2>
+  <ul>
+    <li class="fragment">This item will be displayed first</li>
+    <li class="fragment">This item will be second</li>
+    <li class="fragment">And this will be last</li>
+  </ul>
+</section>
+<section>
+  <h2>Another Fragment Example: Highlight Current Text Blue</h2>
+  <p class="fragment highlight-current-blue">Highlight Blue (Current)</p>
+</section>
+<section>
+  <h2>Fragments: Some Effects</h2>
+  <ul>
+    <li class="fragment highlight-current-green">(Current) Highlight green</li>
+    <li class="fragment semi-fade-out">50% Fade out</li>
+    <li class="fragment shrink">Shrink</li>
+    <li class="fragment grow">Grow</li>
+    <li class="fragment strike">Strike through</li>
+  </ul>
+</section>
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>
