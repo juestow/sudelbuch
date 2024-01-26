@@ -17,45 +17,149 @@
 		<div class="reveal">
 			<div class="slides">
 				<section>
-  <h1>Demo Presentation</h1>
+  <h2>"Compute" as a Noun</h2>
+  <p>Computational Power and AI</p>
+  <p>Jürgen Stowasser</p>
+  <p>January 2024</p>
 </section>
 
-<section>
-  <h2>Slide Heading</h2>
-  <p>Blubb bla</p>
-  <p>Two Leprechauns riding a jabberwocky</p>
+<!-- Compute Intro -->
+			<section>
+				<p>Compute as a Noun</p>
+        <ul>
+        <li>Computational power (CPU, GPU, IoT) as basic requirement for large-scale generative AI</li>
+				<li>Building, Training, Inference, Deployment</li>
+        <li>Extremely large datasets</li>
+		   <li>Compute as commodity (Global Chip Shortage 2020-?) & geopolitical instrument (US "CHIPS and Science Act", 2022)</li>
+			</section>
+
+<section data-markdown>
+  <textarea data-template>
+    "We're currently training our next-gen model Llama 3, and we're building massive compute infrastructure to support our future roadmap, including 350k H100s by the end of this year -- and overall almost 600k H100s equivalents of compute if you include other GPUs."
+	Marc Zuckerberg announcing the development of the open-source large language model *Llama 3*, 18.01.2024
+	[https://www.instagram.com/reel/C2QARHJR1sZ/](https://www.instagram.com/reel/C2QARHJR1sZ/).
+    ---
+    “Right now in AI, what worries me is we don’t have the resources to make sure that academic AI continues to be a centre of gravity. Because if we lose that centre of gravity, then the other centre of gravity is driven by capitalism, Public-sector investment in AI is so abysmal. Not a single university today can train a ChatGPT model . Academia cannot fully develop its own versions so that it can be used for more open scientific research. That is a problem.”
+
+Fei-Fei Li, Human-Centered AI Institute at Stanford (‘Maths is pretty clean. Humans are messy’, *Financial Times* Dec 15, 2023)
+  </textarea>
 </section>
-<section>
-  <p>This will remain visible for all vertical slides</p>
-  <section>Here is some vertical content</section>
-  <section>and some more</section>
-  <section>more stuff...</section>
+
+<section data-markdown>
+  <textarea data-template>
+    *The term "artificial intelligence" means a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations or decisions influencing real or virtual environments. Artificial intelligence systems use machine and human-based inputs to—
+(A) perceive real and virtual environments;
+(B) abstract such perceptions into models through analysis in an automated manner; and
+(C) use model inference to formulate options for information or action..*
+	[National Artificial Intelligence Initiative Act of 2020](https://www.congress.gov/bill/116th-congress/house-bill/6216)
+    ---
+    *AI is the ability of a machine to display human-like capabilities such as reasoning, learning, planning and creativity.
+AI enables technical systems to perceive their environment, deal with what they perceive, solve problems and act to achieve a specific goal. The computer receives data - already prepared or gathered through its own sensors such as a camera - processes it and responds.*
+[European Parlament, 2020/2023](https://www.europarl.europa.eu/news/en/headlines/society/20200827STO85804/what-is-artificial-intelligence-and-how-is-it-used)
+    ---
+	*"AI socio-technical systems": Technology is always part of society, just like society is always part of technology. This also means that one cannot understand one without the other. Technology is not only design and material appearance but also sociotechnical; that is, a complex process constituted by diverse social, political, economic, cultural and technological factors.*
+[EU-U.S. Terminology and Taxonomy for Artificial Intelligence, 31 May 2023](https://digital-strategy.ec.europa.eu/en/library/eu-us-terminology-and-taxonomy-artificial-intelligence)
+  </textarea>
 </section>
+
+<!-- Lighthill -->
+<section data-markdown>
+  <textarea data-template>
+ It is important to understand the meaning attached to this adjective 'heuristic' which increasingly permeates the Artificial Intelligence literature: it means that the program stores and utilises a large amount of knowledge derived from human experience in solving the type of problem concerned. Thus it depends critically on data derived through the use of human intelligence so that the widespread view that only heuristic methods are effective is a serious setback to more extreme versions of the Al philosophy.
+[Lighthill Report "Artificial Intelligence - A General Survey", 1973](https://www.aiai.ed.ac.uk/events/lighthill1973/lighthill.pdf)
+  </textarea>
+</section>
+
+<!-- ImageNet -->
+			<section>
+				<h4>ImageNet (Fei-Fei Li et al.)</h4>
+ <ul>
+  <li>Inspired by Irving Biederman's "Recognition-by-components: A theory of human image understanding perceptual recognition of objects" (1987)</li>
+  <li>Generalisation as mathematical argument for the need of large databases</li>
+  <li>Large image (<a href="https://www.image-net.org/" target="_blank" rel="noopener noreferrer">database</a>) built by the global AI community (and Amazon Mechanical Turk workers)</li>
+  <li>Parallel project for language: (<a href="https://wordnet.princeton.edu/" target="_blank" rel="noopener noreferrer">WordNet</a>) (Sources: Reuters, Decoder)</li>
+</ul> 
+</section>
+
+<section data-markdown>
+  <textarea data-template>
+ By the time we are six years old, we recognize more than 10⁴, and keep learning more throughout our life. As we learn, we organize both objects and categories into useful and informative taxonomies and relate them to language. Replicating these abilities in the machines that surround us would profoundly affect the practical aspects of our lives, mostly for the better. Certainly, this is the most exciting and difficult puzzle that faces computational vision scientists and
+engineers in this decade.
+
+[Li Fei-Fei, Rob Fergus, and Pietro Perona: One-Shot Learning of Object Categories (2006)](http://vision.stanford.edu/documents/Fei-FeiFergusPerona2006.pdf)
+  </textarea>
+</section>
+
+<!-- LLM 1 -->
+			<section>
+				<h3>Large Language Models</h3>
+        <ul>
+        <li>"Stochastic Parrots"?</li>
+				<li>"Sparks of Artificial General Intelligence (AGI)?"</li>
+        <li>"Spontaneous Emergence of an AI Theory of Mind"?</li>
+			</section>			
+
+<!-- Self hosted image and Markdown -->
+<section data-markdown>
+  <textarea data-template>
+    #### Sparks of AGI(?)
+    GPT-4 draws a unicorn with LaTeX code:
+![A unicorn made with TiKZ](./images/tikz.jpg)
+  </textarea>
+</section>
+
+<!-- Vertical slides -->
+			<section><p>Sparks of AGI(?)</p>
+				<img src="images/eggs1.jpg" alt="prompt">
+				<section><img src="images/eggs2.jpg" alt="gpt-4"></section>
+				<section><img src="images/eggs3.jpg" alt="chatgpt"></section>
+			</section>
+
+
+<!-- Datasets -->
+			<section>
+				<h3>Datasets & Databases</h3>
+ <ul>
+  <li>Training Data for LLMs: Sources???</li>
+  <li>Bias and Debiasing: Hidden Human Labour</li>
+  <li>"CCP-approved" dataset (50 billion tokens sized) released by the Cyberspace Administration of China (<a href="https://www.cybersac.cn/" target="_blank" rel="noopener noreferrer">CAC</a>) (Sources: Reuters, Decoder)</li>
+</ul> 
+</section>
+
+<!-- Fragments -->
+			<section>
+				<h3>NYT Sues OpenAI and Microsoft</h3>
+				<ul>
+					<li class="fragment">Millions of articles were used to train chatbots that now compete with the NYT</li>
+					<li class="fragment">Counts include
+copyright infringement, unfair competition by misappropriation, trademark dilution</li>
+<li class="fragment">
+<a href="https://nytco-assets.nytimes.com/2023/12/NYT_Complaint_Dec2023.pdf">Complaint filed 12/27/23</a>
+ </li>
+				</ul>
+			</section>
+
+<!-- Self hosted image -->
+			<section>
+				<img src="images/nytcomplaint_paywallprompt.jpg" alt="NYTvOpenAI">
+			</section>
+
+<!-- Self hosted image -->
+			<section>
+				<h2>Fawkes Cloaking</h2>
+				<img src="images/fawkes.jpg" alt="Fawkes">
+			</section>
+			
+<!-- Vertical slides -->
+			<section>
+				<p>Nightshade (SAND Lab, Univ of Chicago</p>
+				<section>Nightshade [..] is designed as an offense tool to distort feature representations inside generative AI image models. [..] While human eyes see a shaded image that is largely unchanged from the original, the AI model sees a dramatically different composition in the image.<p>&#8595;</p></section>
+				<section>For example, human eyes might see a shaded image of a cow in a green field largely unchanged, but an AI model might see a large leather purse lying in the grass. Trained on a sufficient number of shaded images that include a cow, a model will become increasingly convinced cows have nice brown leathery handles and smooth side pockets with a zipper.</section>
+			</section>
+			
 <section>
   <h2>Tlahcuiloh</h2>
   <img src="images/vindobonensis_tlacuilo_oeste.jpg" alt="Codex Vindobonensis" title="Codex Vindobonensis Mexicanus 1">
-</section>
-<section>
-  <h2>fragments in DOM order</h2>
-  <ul>
-    <li class="fragment">This item will be displayed first</li>
-    <li class="fragment">This item will be second</li>
-    <li class="fragment">And this will be last</li>
-  </ul>
-</section>
-<section>
-  <h2>Another Fragment Example: Highlight Current Text Blue</h2>
-  <p class="fragment highlight-current-blue">Highlight Blue (Current)</p>
-</section>
-<section>
-  <h2>Fragments: Some Effects</h2>
-  <ul>
-    <li class="fragment highlight-current-green">(Current) Highlight green</li>
-    <li class="fragment semi-fade-out">50% Fade out</li>
-    <li class="fragment shrink">Shrink</li>
-    <li class="fragment grow">Grow</li>
-    <li class="fragment strike">Strike through</li>
-  </ul>
 </section>
 			</div>
 		</div>
