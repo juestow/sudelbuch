@@ -6,7 +6,7 @@ title: About
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Presentation]{{ site.presentation_url | relative_url }}
+[Presentation]({{ site.presentation_url | relative_url }})
 
 [Presentation](http://127.0.0.1:4000/compute-pres/index.html).
 
