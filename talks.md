@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: description
 permalink: /talks/
 title: Talks
 pagination:
