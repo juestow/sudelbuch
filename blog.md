@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: /blog/
+permalink: /talks/
 title: Sudelbuch
 pagination:
   enabled: true
