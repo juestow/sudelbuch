@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: talks
 permalink: /talks/
 title: Sudelbuch
 pagination:
