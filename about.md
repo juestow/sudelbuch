@@ -4,18 +4,15 @@ permalink: /about/
 title: About
 ---
 
-GitHub for this site: https://github.com/juestow/sudelbuch
+See the source files on GitHub: [https://github.com/juestow/sudelbuch](https://github.com/juestow/sudelbuch)
 
 ### Credits
-- [ ] https://github.com/rohitjain00/dev-portfolio-blog Jekyll-Theme (Main Site)
-- [ ] https://github.com/hakimel/reveal.js reveal.js (Presentations)
+- [ ] [https://github.com/rohitjain00/dev-portfolio-blog](https://github.com/rohitjain00/dev-portfolio-blog) Jekyll-Theme (Main Site)
+- [ ] [https://github.com/hakimel/reveal.js](https://github.com/hakimel/reveal.js) reveal.js (Slides)
 
 ### Built with
-- Jekyll https://github.com/jekyll/jekyll ▸ https://jekyllrb.com/
-- reveal.js https://revealjs.com
-
-### Citation
-See citation file.
+- Jekyll [https://github.com/jekyll/jekyll](https://github.com/jekyll/jekyll) ▸ https://jekyllrb.com/
+- reveal.js [https://revealjs.com](https://revealjs.com)
 
 ### License
-MIT License^[https://opensource.org/license/mit/] (See license-file for details)
+MIT License: [https://opensource.org/license/mit/](https://opensource.org/license/mit/)
