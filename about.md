@@ -4,7 +4,7 @@ permalink: /about/
 title: About
 ---
 
-
+GitHub for this site: https://github.com/juestow/sudelbuch
 
 ### Credits
 - [ ] https://github.com/rohitjain00/dev-portfolio-blog Jekyll-Theme (Main Site)
