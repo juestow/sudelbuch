@@ -20,8 +20,6 @@ title: About
 MIT License: [https://opensource.org/license/mit/](https://opensource.org/license/mit/)
 
 ***
-# Website Disclaimer
-
 ## Impressum (Offenlegung nach MedienG)
 
 Dieser Informatik-Blog dient rein privaten Interessen.  
