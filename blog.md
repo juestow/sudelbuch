@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /blog/
-title: Sudelbuch
+title: Sandbox
 pagination:
   enabled: true
 ---
