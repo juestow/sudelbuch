@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Just a Tinkering Site ⚙  
-title: Sandbox
+home_text: Jürgen Stowasser  
+title: Talks & Prsentations
 ---
