@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title : "La virgen de los buenos libros"
+title : "La virgen de los buenos libros (Seville 2018)"
 categories: [Photography]
 ---
 
