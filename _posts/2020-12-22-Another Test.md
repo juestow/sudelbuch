@@ -1,11 +1,9 @@
 ---
 layout: post
 comments: true
-title : Paralipomena
-categories: [Parerga]
+title : "La virgen de los buenos libros"
+categories: [Photography]
 ---
 
-
-
-## 👀? 
+![*La virgen de los buenos libros* (Seville 2018)](/assets/img/virgen-buenos-libros-sevilla.jpg)
 
