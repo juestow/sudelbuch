@@ -4,8 +4,15 @@ title: Talks
 pagetype: blog
 ---
 
-<!-- This loops through the paginated posts -->
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
+<!-- This loops through the paginated posts -->
 
 {% if paginator.total_posts == 0 %}
     <p>No posts right now.</p>
@@ -45,11 +52,3 @@ pagetype: blog
     {% endif %}
 </ul>
 {% endif %}
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
