@@ -4,14 +4,6 @@ title: Talks
 pagetype: blog
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
 <!-- This loops through the paginated posts -->
 
 
@@ -53,3 +45,11 @@ pagetype: blog
     {% endif %}
 </ul>
 {% endif %}
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
