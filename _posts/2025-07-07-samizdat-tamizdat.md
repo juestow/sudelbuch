@@ -10,11 +10,11 @@ Books and journals of the Soviet era fall roughly into three categories: (a) Pri
 
 Now, this fragmentation still shows in the bibliographic records. Some digitized historical newspapers can only be found in Western repositories whereas others are solely available in Russian online collections. Good starting points are:
 
-Russian National Library:  *Газеты в сети и вне её* (Newspapers online & offline)[https://nlr.ru/res/inv/ukazat55/search_records.php](https://nlr.ru/res/inv/ukazat55/search_records.php)
+- Russian National Library:  *Газеты в сети и вне её* (Newspapers online & offline)[https://nlr.ru/res/inv/ukazat55/search_records.php](https://nlr.ru/res/inv/ukazat55/search_records.php)
 
-Russia Abroad Digital Collection: [https://radc.hoover.org/?a=cl&cl=CL1](https://radc.hoover.org/?a=cl&cl=CL1)
+- Russia Abroad Digital Collection: [https://radc.hoover.org/?a=cl&cl=CL1](https://radc.hoover.org/?a=cl&cl=CL1)
 
-Russian Exile Publications (UB Bern) [https://www.e-rara.ch/bes_1/nav/classification/13070746](https://www.e-rara.ch/bes_1/nav/classification/13070746)
+- Russian Exile Publications (UB Bern) [https://www.e-rara.ch/bes_1/nav/classification/13070746](https://www.e-rara.ch/bes_1/nav/classification/13070746)
 
 #### References
 - *Digital Handbook for Research on Soviet History*, Harvard University ("a bibliographic guide to primary source materials for the study of Soviet history") https://dccollection.share.library.harvard.edu/   
