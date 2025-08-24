@@ -22,3 +22,4 @@ Now, this fragmentation still shows in the bibliographic records. Some digitized
 - Klots, Yasha (2023). *Tamizdat: contraband Russian literature in the Cold War era*. Cornell University Press: Ithaca, London
 [https://www.cornellpress.cornell.edu/book/9781501768972/tamizdat](https://www.cornellpress.cornell.edu/book/9781501768972/tamizdat) (Open access)
 - Kind-Kovács, Friederike; Labov, Jessie, eds. (2015). *Samizdat, Tamizdat, and Beyond: Transnational Media During and After Socialism*. Berghahn Books: New York. 
+---
