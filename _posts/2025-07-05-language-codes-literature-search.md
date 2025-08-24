@@ -54,5 +54,6 @@ The query `la:`  renders on JSTOR the following ranking:
 25. Norwegian (785)
 
 ![Screenshot JSTOR (2025)](/assets/img/jstor-marc-lang.png)
+
 [https://www.jstor.org/action/doBasicSearch?Query=la%3A&so=rel](https://www.jstor.org/action/doBasicSearch?Query=la%3A&so=rel)
 
