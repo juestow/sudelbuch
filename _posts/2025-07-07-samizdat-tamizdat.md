@@ -5,7 +5,8 @@ title : Samizdat, Tamizdat, and a Cold War Divide in the Library
 categories: [Search, Bibliographic databases, Online catalogue, Literature search, Russia, Exile press, Tamizdat, Samizdat]
 ---
 
-Books and journals of the Soviet era fall roughly into three categories: (a) Printed by state-controlled publishing houses,  (b) *samizdat* (самиздат), meaning "self-published", (c) *tamizdat* (тамиздат), literally "there-published", i.e., outside the Soviet Union and USSR-aligned countries.[^1]
+Books and journals of the Soviet era fall roughly into three categories: (a) Printed by state-controlled publishing houses,  (b) *samizdat* (самиздат), meaning "self-published", (c) *tamizdat* (тамиздат), literally "there-published", i.e., outside the Soviet Union and USSR-aligned countries[^1].
+
 [^1]: *Tamizdat* include low-circulation presses run by emigrated dissidents as well as Cold War operations such as the distribution of Boris Pasternak's *Doctor Zhivago* by the CIA, see the collection of declassified documents on the website of the CIA:  "The Zhivago project was one of many CIA-supported covert publishing programs that involved distributing banned books, periodicals, pamphlets, and other materials to intellectuals in the Soviet Union and Eastern Europe." [https://www.cia.gov/readingroom/collection/doctor-zhivago](https://www.cia.gov/readingroom/collection/doctor-zhivago)
 
 Now, this fragmentation still shows in the bibliographic records. Some digitized historical newspapers can only be found in Western repositories whereas others are solely available in Russian online collections. Good starting points are:
