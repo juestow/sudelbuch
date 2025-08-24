@@ -9,11 +9,11 @@ MARC language codes, a bibliographic format used by many library catalogues,[^1]
 
 [^1]: See the [definition on the MARC website](https://www.loc.gov/marc/faq.html#definition):   "MARC is the acronym for MAchine-Readable Cataloging. It defines a data format that emerged from a Library of Congress-led initiative that began nearly forty years ago. It provides the mechanism by which computers exchange, use, and interpret bibliographic information, and its data elements make up the foundation of most library catalogs used today. MARC became USMARC in the 1980s and MARC 21 in the late 1990s." For more information see [https://www.loc.gov/marc/](https://www.loc.gov/marc/).
 
-The search string
+For instance, the search string
 > la:ger Kempelen AND (Sprechmaschine OR Schachautomat)
+will return results for publications on/by "Kempelen" in German.
 
-The search string  `la:ger Kempelen`, for instance, will return results for publications on/by "Kempelen" in German. Combined with Boolean operators, language shortcodes can be deployed for very specific search queries:
-
+Combined with Boolean operators, language shortcodes can be deployed for very specific search queries:
 `la:ger Kempelen AND (Sprechmaschine OR Schachautomat)`
 = publications in German containing either a) both the keywords "Kempelen" and "Sprechmaschine" or b) both "Kempelen" and "Schachautomat" (which produces eleven results on JSTOR: [https://www.jstor.org/action/doBasicSearch?Query=la%3Ager%20Kempelen%20AND%20(Sprechmaschine%20OR%20Schachautomat)&so=rel](https://www.jstor.org/action/doBasicSearch?Query=la%3Ager%20Kempelen%20AND%20(Sprechmaschine%20OR%20Schachautomat)&so=rel))
 
