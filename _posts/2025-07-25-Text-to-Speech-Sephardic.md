@@ -21,6 +21,17 @@ This is from the bilingual history of the Sephardic community in Vienna, self-pu
 
 [^2]:[https://www.geschichtewiki.wien.gv.at/Synagoge_des_Verbandes_der_T%C3%BCrkischen_Israeliten_Sephardim_2,_Zirkusgasse_22](https://www.geschichtewiki.wien.gv.at/Synagoge_des_Verbandes_der_T%C3%BCrkischen_Israeliten_Sephardim_2,_Zirkusgasse_22)
 
+In order to "read" the title page with the help of text-to-speech ai, copy the following lines and paste them into an online text-to-speech tool like [https://micmonster.com/text-to-speech/hebrew-israel/](https://micmonster.com/text-to-speech/hebrew-israel/) and listen to the generated audio.
+
+
+```
+איסטודייא די לה קומונידאד ישראלית איטפאנייולה אין ו'יינה. דיל טיימפו די סו פ'ונדאסייון אסטה אויי סיגון דאטוס איסטוריקוס אין איספאנייול פור מיכאל מוחס פאפו פונסייונארייו די לה וינ'ה קומונידאד. 
+```
+
+איסטודייא די לה קומונידאד ישראלית איטפאנייולה אין ו'יינה. דיל טיימפו די סו פ'ונדאסייון אסטה אויי סיגון דאטוס איסטוריקוס אין איספאנייול פור מיכאל מוחס פאפו פונסייונארייו די לה וינ'ה קומונידאד. 
+
+
+
 | Sefardí | Modern Spanish |  
 | --- | --- | 
 | איסטודייא    |    Historia |   
