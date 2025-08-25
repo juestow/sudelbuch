@@ -14,3 +14,15 @@ Due to the similarities between the two languages, Spanish speakers are able to 
 Let's take this title page as example:
 
 ![Zemlinszky 1888](/assets/img/Zemlinszky1888-portada-Sefardi.png)
+
+[https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/674956](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/674956) (PDM 1.0)
+
+This is from the bilingual history of the Sephardic community in Vienna, self-published in 1888 and written both in German and Sefardí (the latter text was authored by chief rabbi Michael Papo).
+
+#### References
+Zemlinszky, Adolf von / Papo, Michael (1888): Geschichte der türkisch-israelitischen Gemeinde zu Wien von ihrer Gründung bis heute: nach historischen Daten. Verf. von Adolf v. Zemlinszky. Uebers. in's Jüdisch-Span. von Michael Papo. Wien/Viena. [https://sammlungen.ub.uni-frankfurt.de/urn/urn:nbn:de:hebis:30-180010001007](https://sammlungen.ub.uni-frankfurt.de/urn/urn:nbn:de:hebis:30-180010001007)
+ 
+- Curso de Cultura Hispanojudía y Sefardí de la Universidad de Castilla-La Mancha (1992-2008, Toledo) [https://dialnet.unirioja.es/congreso/704](https://dialnet.unirioja.es/congreso/704)
+- Hecht, Louise / Hecht Dieter Mayerhofer, Kerstin / Siluk, Avraham (eds.) (2014): Quellen zur jüdischen Geschichte im Heiligen Römischen Reich und seinen Nachfolgestaaten. Böhlau Verlag: Wien, Göttingen. https://doi.org/10.7767/boehlau.9783205793410
+- Stechauner, Martin (2021): El Koreo de Viena: A Sephardic Newspaper on the Western Fringes of Southeastern Europe. In: Hansen-Kokoruš, Renate / Terpitz, Olaf (eds.): Jewish Literatures and Cultures in Southeastern Europe.
+Böhlau Verlag: Wien, pp. 63-82. https://doi.org/10.7767/9783205212904.63
