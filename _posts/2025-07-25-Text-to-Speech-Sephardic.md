@@ -30,7 +30,7 @@ In order to "read" the title page with the help of text-to-speech ai, copy the f
 
 Admittedly this method is far from perfect, mostly due to the phonetic differences between Sefardí and modern Hebrew (e.g., the tool renders `פור` as "phor" whereas this would be read in Sefardí as the very common "por"). Again, the AI support is by no means a substitute for genuine reading skills -- but may be helpful as propaedeutic or "motivational" tool for beginners with (some) knowledge of Spanish.
 
-
+Finally, a brief comparison of the Sefardí and modern Spanish (and for the German version of the title page, see [https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/674922](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/674922) ):
 
 | Sefardí | Modern Spanish |  
 | --- | --- | 
