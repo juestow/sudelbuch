@@ -28,7 +28,7 @@ In order to "read" the title page with the help of text-to-speech ai, copy the f
 איסטודייא די לה קומונידאד ישראלית איטפאנייולה אין ו'יינה. דיל טיימפו די סו פ'ונדאסייון אסטה אויי סיגון דאטוס איסטוריקוס אין איספאנייול פור מיכאל מוחס פאפו פונסייונארייו די לה וינ'ה קומונידאד. 
 ```
 
-איסטודייא די לה קומונידאד ישראלית איטפאנייולה אין ו'יינה. דיל טיימפו די סו פ'ונדאסייון אסטה אויי סיגון דאטוס איסטוריקוס אין איספאנייול פור מיכאל מוחס פאפו פונסייונארייו די לה וינ'ה קומונידאד. 
+Admittedly this method is far from perfect, mostly due to the phonetic differences between Sefardí and modern Hebrew (e.g., the tool renders `פור` as "phor" whereas this would be read in Sefardí as the very common "por"). Again, the AI support is by no means a substitute for genuine reading skills -- but may be helpful as propaedeutic or "motivational" tool for beginners with (some) knowledge of Spanish.
 
 
 
