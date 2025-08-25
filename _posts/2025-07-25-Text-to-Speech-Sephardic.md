@@ -17,7 +17,9 @@ Let's take this title page as example:
 
 [https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/674956](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/674956) (PDM 1.0)
 
-This is from the bilingual history of the Sephardic community in Vienna, self-published in 1888 and written both in German and Sefardí (the latter text was authored by chief rabbi Michael Papo).
+This is from the bilingual history of the Sephardic community in Vienna, self-published in 1888 and written both in German and Sefardí (the latter text was authored by chief rabbi Michael Papo). The Viennese Sephardic community dates back to the 1730s when Jewish merchants from the Ottoman Empire started a commercial settlement in Vienna. By the late 19th century, they entertained a synagogue[^2], a school, charities, and even a newspaper (Stechauner 2021). The book recounts this history from a Sephardic perspective. 
+
+[^2]:[https://www.geschichtewiki.wien.gv.at/Synagoge_des_Verbandes_der_T%C3%BCrkischen_Israeliten_Sephardim_2,_Zirkusgasse_22](https://www.geschichtewiki.wien.gv.at/Synagoge_des_Verbandes_der_T%C3%BCrkischen_Israeliten_Sephardim_2,_Zirkusgasse_22)
 
 #### References
 Zemlinszky, Adolf von / Papo, Michael (1888): Geschichte der türkisch-israelitischen Gemeinde zu Wien von ihrer Gründung bis heute: nach historischen Daten. Verf. von Adolf v. Zemlinszky. Uebers. in's Jüdisch-Span. von Michael Papo. Wien/Viena. [https://sammlungen.ub.uni-frankfurt.de/freimann/content/titleinfo/674919](https://sammlungen.ub.uni-frankfurt.de/freimann/content/titleinfo/674919)
