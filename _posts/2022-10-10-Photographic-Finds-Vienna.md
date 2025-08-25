@@ -9,7 +9,7 @@ categories: [Photography, Vienna]
 
 ![Domgasse, Bikes, B/W](/assets/img/domgasse-bikes.jpg)
 
-![Domgasse, Bikes, B/W](/assets/img/stephansplatz-churhausg.jpg)
+![Churhausgasse](/assets/img/stephansplatz-churhausg.jpg)
 
 ![Maria-Theresien-Platz, Burgring](/assets/img/maria-theresien-platz.jpg)
 
