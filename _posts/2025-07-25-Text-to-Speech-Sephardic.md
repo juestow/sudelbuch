@@ -43,7 +43,7 @@ Finally, a brief comparison of the Sefardí and modern Spanish (and for the Germ
 
 
 #### References
-Zemlinszky, Adolf von / Papo, Michael (1888): Geschichte der türkisch-israelitischen Gemeinde zu Wien von ihrer Gründung bis heute: nach historischen Daten. Verf. von Adolf v. Zemlinszky. Uebers. in's Jüdisch-Span. von Michael Papo. Wien/Viena. [https://sammlungen.ub.uni-frankfurt.de/freimann/content/titleinfo/674919](https://sammlungen.ub.uni-frankfurt.de/freimann/content/titleinfo/674919)
+- Zemlinszky, Adolf von / Papo, Michael (1888): Geschichte der türkisch-israelitischen Gemeinde zu Wien von ihrer Gründung bis heute: nach historischen Daten. Verf. von Adolf v. Zemlinszky. Uebers. in's Jüdisch-Span. von Michael Papo. Wien/Viena. [https://sammlungen.ub.uni-frankfurt.de/freimann/content/titleinfo/674919](https://sammlungen.ub.uni-frankfurt.de/freimann/content/titleinfo/674919)
  
 - Curso de Cultura Hispanojudía y Sefardí de la Universidad de Castilla-La Mancha (1992-2008, Toledo) [https://dialnet.unirioja.es/congreso/704](https://dialnet.unirioja.es/congreso/704)
 - Hecht, Louise / Hecht Dieter Mayerhofer, Kerstin / Siluk, Avraham (eds.) (2014): Quellen zur jüdischen Geschichte im Heiligen Römischen Reich und seinen Nachfolgestaaten. Böhlau Verlag: Wien, Göttingen. https://doi.org/10.7767/boehlau.9783205793410
