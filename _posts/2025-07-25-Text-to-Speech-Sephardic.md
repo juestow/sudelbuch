@@ -21,6 +21,16 @@ This is from the bilingual history of the Sephardic community in Vienna, self-pu
 
 [^2]:[https://www.geschichtewiki.wien.gv.at/Synagoge_des_Verbandes_der_T%C3%BCrkischen_Israeliten_Sephardim_2,_Zirkusgasse_22](https://www.geschichtewiki.wien.gv.at/Synagoge_des_Verbandes_der_T%C3%BCrkischen_Israeliten_Sephardim_2,_Zirkusgasse_22)
 
+| Sefardí | Modern Spanish |  
+| --- | --- | 
+| איסטודייא    |    Historia |   
+|  די לה   |   de la  | 
+|    קומונידאד ישראלית איטפאנייולה אין  ו'יינה.   |comunidad israelita-española en Viena|   
+ |דיל טיימפו די סו פ'ונדאסייון אסטה אויי|del tiempo de su fundacion hasta  ahora| 
+| סיגון  דאטוס איסטוריקוס     | segun datos historicos| 
+| אין איספאנייול פור מיכאל מוחס פאפו פונסייונארייו  די לה וינ'ה קומונידאד.  |  en Español por Michael Papo, funcionario de la Viena comunidad    |
+
+
 #### References
 Zemlinszky, Adolf von / Papo, Michael (1888): Geschichte der türkisch-israelitischen Gemeinde zu Wien von ihrer Gründung bis heute: nach historischen Daten. Verf. von Adolf v. Zemlinszky. Uebers. in's Jüdisch-Span. von Michael Papo. Wien/Viena. [https://sammlungen.ub.uni-frankfurt.de/freimann/content/titleinfo/674919](https://sammlungen.ub.uni-frankfurt.de/freimann/content/titleinfo/674919)
  
@@ -28,3 +38,6 @@ Zemlinszky, Adolf von / Papo, Michael (1888): Geschichte der türkisch-israeliti
 - Hecht, Louise / Hecht Dieter Mayerhofer, Kerstin / Siluk, Avraham (eds.) (2014): Quellen zur jüdischen Geschichte im Heiligen Römischen Reich und seinen Nachfolgestaaten. Böhlau Verlag: Wien, Göttingen. https://doi.org/10.7767/boehlau.9783205793410
 - Stechauner, Martin (2021): El Koreo de Viena: A Sephardic Newspaper on the Western Fringes of Southeastern Europe. In: Hansen-Kokoruš, Renate / Terpitz, Olaf (eds.): Jewish Literatures and Cultures in Southeastern Europe.
 Böhlau Verlag: Wien, pp. 63-82. https://doi.org/10.7767/9783205212904.63
+
+---
+
