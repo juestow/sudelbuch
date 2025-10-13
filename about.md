@@ -6,6 +6,10 @@ title: About
 
 🡆 GitHub-Repository: [https://github.com/juestow/sudelbuch](https://github.com/juestow/sudelbuch)
 
+
+### Contact
+✗ juergen.stowasser(@)ilinx.at
+
 ### Credits
 ✗ [https://github.com/rohitjain00/dev-portfolio-blog](https://github.com/rohitjain00/dev-portfolio-blog) Jekyll-Theme (Main Site) 
 
