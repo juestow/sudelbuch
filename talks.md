@@ -10,8 +10,11 @@ pagination:
 
 ## Mesoamerican Studies/History of Colonialism
 
-✘ *"Que siempre la lengua fue compañera del imperio" - Sprache und Kolonialherrschaft*. XXVI. Mesoamerikanistik-Tagung (2025)  
+✘ *Nepantlah - Übersetzung und Kolonialisierung*. MA KSA (2025)  
 🡆 [Slides]({{ site.presentation_url | relative_url }})  [German]
+
+✘ *"Que siempre la lengua fue compañera del imperio" - Sprache und Kolonialherrschaft*. XXVI. Mesoamerikanistik-Tagung (2025)  
+🡆 [Slides]({{ site.presentation4_url | relative_url }})  [German]
 
 
 ## History of Science & Technology
