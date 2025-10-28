@@ -10,6 +10,13 @@ pagination:
 
 ## Mesoamerican Studies/History of Colonialism
 
+
+✘ *Das Scheitern der Übersetzung als Quelle interkultureller Erkenntnis. Zwischensprachliche und intersemiotische Übersetzung im frühkolonialen Mexiko*. Drittes Wiener Forum interkulturellen Philosophierens (2019)
+
+✘ *500 Jahre Conquista – die Eroberung von Mexiko-Tenochtitlan*.  Otto-Mauer Zentrum, Wien (2019)
+
+✘ *Indigene im kolonialen „Neuspanien”: Mēxihcah oder “Indios”?* Veranstaltungsreihe *Die Aztek_innen*, LAI/Weltmuseum Wien (2021)
+
 ✘ *Nepantlah - Übersetzung und Kolonialisierung*. MA KSA (2025)  
 🡆 [Slides]({{ site.presentation_url | relative_url }})  [German]
 
