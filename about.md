@@ -6,6 +6,7 @@ title: About
 
 🡆 GitHub-Repository: [https://github.com/juestow/sudelbuch](https://github.com/juestow/sudelbuch)
 
+🡆 My main site: [https://ilinx.at/](https://ilinx.at/)
 
 ### Credits
 ✗ [https://github.com/rohitjain00/dev-portfolio-blog](https://github.com/rohitjain00/dev-portfolio-blog) Jekyll-Theme (Main Site) 
